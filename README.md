@@ -33,6 +33,6 @@ Client and server programs implementing the [online book catalog protocol](./RFC
 
 <br>
 
-# References
+## References
 * With permission, used socket client and server code given by Dave 
   OHallaron at Carnegie Mellon University.
